@@ -3,7 +3,7 @@
 # Oi, eu sou o Thalys Augusto
 
 <a href="https://www.linkedin.com/in/thalysjuvenal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/thalysjuvenal"></a>
-<a href="https://medium.com/@vanessa.ruama" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@vanessa.ruama"></a>
+<a href="https://medium.com/@thalysaugusto" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@thalysaugusto"></a>
 - 👨‍💻 Sou Especialista de Sistemas
 - 🔭 Linguagens Advpl, TLPP, PHP, TyperScript, Angular e PO-UI
 - 🔭 Windows Server, Linux, SQL Server, PostgresSQL, Oracle DB, GitLab, Docker e DevOps
@@ -33,3 +33,5 @@
 <a href="https://azure.microsoft.com/en-in/" target="blank"><img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"/></a> <br></br>
 <a href="https://visualstudio.microsoft.com/pt-br/vs/" target="blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visualstudio"/></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visualcode"/></a>
+
+<img height = "250em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaruama&layout=compact&langs_count=16&theme=radical" />
