@@ -1,5 +1,3 @@
-<img src="imagens/git_logo.png" align="center" >
-
 # Oi, eu sou o Thalys Augusto
 
 <a href="https://www.linkedin.com/in/thalysjuvenal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/thalysjuvenal"></a>
