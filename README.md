@@ -6,7 +6,7 @@
 - 🔭 Linguagens Advpl, TLPP, PHP, TyperScript, Angular e PO-UI
 - 🔭 Windows Server, Linux, SQL Server, PostgresSQL, Oracle DB, GitLab, Docker e DevOps
 - 📝 Estou sempre estudando e me atualizando sobre novas tecnologias
-- 📝 Sou graduada em ADS na PUCMG
+- 📝 Sou graduado em ADS na PUCMG
 - ⚡ Um fato sobre mim: Minha série favorita é **The Walking Dead**
 
 # Linguagens e ferramentas:
